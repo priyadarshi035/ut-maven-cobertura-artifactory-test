@@ -88,19 +88,12 @@
       </plugin>
     </plugins>
   </reporting>
+  
 <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>IBM223-PC09E8KS-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release-local</url>
-    </repository>
-
-
-
     <snapshotRepository>
-        <id>central</id>
-        <name>IBM223-PC09E8KS-releases</name>
-        <url>http://localhost:8081/artifactory/ext-snapshot-local</url>
+        <id>instance-00639ccb</id>
+        <name>instance-00639ccb-snapshots</name>
+        <url>http://artifactory.mybluemix.net/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 
