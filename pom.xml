@@ -60,8 +60,8 @@
   
 <distributionManagement>
     <snapshotRepository>
-        <id>instance-00639ccb</id>
-        <name>instance-00639ccb-snapshots</name>
+        <id>instance-0085fa25</id>
+        <name>instance-0085fa25-snapshots</name>
         <url>http://artifactory.mybluemix.net/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
